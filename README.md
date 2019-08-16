@@ -1,6 +1,6 @@
 # Sample of using Android paging library
 
-This sample demonstrates how to load data into RecyclerView (with multiple view holders) using the Paging library. Also, LiveData and ViewModel classes were used.
+This sample demonstrates how to load data into RecyclerView (with multiple view holders) using the Paging library (PagedList class). Also, LiveData and ViewModel classes were used.
 
 # Demo
 
